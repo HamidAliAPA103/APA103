@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{26255BD4-ABFB-49F5-8685-C9A0546A794B}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\servis\\loginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26255BD4-ABFB-49F5-8685-C9A0546A794B}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\asus\\desktop\\apa103\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26255BD4-ABFB-49F5-8685-C9A0546A794B}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26255BD4-ABFB-49F5-8685-C9A0546A794B}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\asus\\desktop\\apa103\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26255BD4-ABFB-49F5-8685-C9A0546A794B}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26255BD4-ABFB-49F5-8685-C9A0546A794B}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\asus\\desktop\\apa103\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26255BD4-ABFB-49F5-8685-C9A0546A794B}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26255BD4-ABFB-49F5-8685-C9A0546A794B}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\asus\\desktop\\apa103\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26255BD4-ABFB-49F5-8685-C9A0546A794B}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26255BD4-ABFB-49F5-8685-C9A0546A794B}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\asus\\desktop\\apa103\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\exceptions\\accountlockedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,15 +58,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Program.cs",
               "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Program.cs",
               "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T19:53:34.785Z"
+              "WhenOpened": "2026-03-29T19:53:34.785Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -76,34 +77,36 @@
               "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\Servis\\LoginSystem.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Servis\\LoginSystem.cs",
               "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\Servis\\LoginSystem.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T20:41:35.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Models\\User.cs",
               "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\Models\\User.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Models\\User.cs",
               "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T20:29:19.574Z"
+              "WhenOpened": "2026-03-29T20:29:19.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "InvalidPasswordException.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Exceptions\\InvalidPasswordException.cs",
               "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\Exceptions\\InvalidPasswordException.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Exceptions\\InvalidPasswordException.cs",
               "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\Exceptions\\InvalidPasswordException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T20:14:29.669Z"
+              "WhenOpened": "2026-03-29T20:14:29.669Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

@@ -17,6 +17,8 @@ namespace _08_StatiClassExtensionMethodsExceptions.Models
         {
             IsLocked = false;
             FailedAttempts = 0;
+            Username = username;
+            Password = password;
         }
     }
 }
