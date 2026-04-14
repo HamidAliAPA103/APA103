@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\APA103\\07-NullableEnumStruct\\07-NullableEnumStruct\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28162C35-4893-46A8-BD68-1B1E2C5F13C9}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|c:\\users\\asus\\desktop\\apa103\\07-nullableenumstruct\\07-nullableenumstruct\\07-nullableenumstruct\\enums\\drinkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28162C35-4893-46A8-BD68-1B1E2C5F13C9}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|solutionrelative:07-nullableenumstruct\\enums\\drinkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28162C35-4893-46A8-BD68-1B1E2C5F13C9}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|c:\\users\\asus\\desktop\\apa103\\07-nullableenumstruct\\07-nullableenumstruct\\07-nullableenumstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28162C35-4893-46A8-BD68-1B1E2C5F13C9}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|solutionrelative:07-nullableenumstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28162C35-4893-46A8-BD68-1B1E2C5F13C9}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|c:\\users\\asus\\desktop\\apa103\\07-nullableenumstruct\\07-nullableenumstruct\\07-nullableenumstruct\\enums\\drinktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28162C35-4893-46A8-BD68-1B1E2C5F13C9}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|solutionrelative:07-nullableenumstruct\\enums\\drinktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{28162C35-4893-46A8-BD68-1B1E2C5F13C9}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|c:\\users\\asus\\desktop\\apa103\\07-nullableenumstruct\\07-nullableenumstruct\\07-nullableenumstruct\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28162C35-4893-46A8-BD68-1B1E2C5F13C9}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|solutionrelative:07-nullableenumstruct\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28162C35-4893-46A8-BD68-1B1E2C5F13C9}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|c:\\users\\asus\\desktop\\apa103\\07-nullableenumstruct\\07-nullableenumstruct\\07-nullableenumstruct\\enums\\drinkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28162C35-4893-46A8-BD68-1B1E2C5F13C9}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|solutionrelative:07-nullableenumstruct\\enums\\drinkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28162C35-4893-46A8-BD68-1B1E2C5F13C9}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|c:\\users\\asus\\desktop\\apa103\\07-nullableenumstruct\\07-nullableenumstruct\\07-nullableenumstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28162C35-4893-46A8-BD68-1B1E2C5F13C9}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|solutionrelative:07-nullableenumstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\APA103\\07-NullableEnumStruct\\07-NullableEnumStruct\\07-NullableEnumStruct\\Program.cs",
               "RelativeDocumentMoniker": "07-NullableEnumStruct\\Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\APA103\\07-NullableEnumStruct\\07-NullableEnumStruct\\07-NullableEnumStruct\\Program.cs",
               "RelativeToolTip": "07-NullableEnumStruct\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T18:42:56.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DrinkOrder.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\APA103\\07-NullableEnumStruct\\07-NullableEnumStruct\\07-NullableEnumStruct\\Enums\\DrinkOrder.cs",
               "RelativeDocumentMoniker": "07-NullableEnumStruct\\Enums\\DrinkOrder.cs",
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\APA103\\07-NullableEnumStruct\\07-NullableEnumStruct\\07-NullableEnumStruct\\Enums\\OrderStatus.cs",
               "RelativeDocumentMoniker": "07-NullableEnumStruct\\Enums\\OrderStatus.cs",
@@ -68,11 +68,12 @@
               "RelativeToolTip": "07-NullableEnumStruct\\Enums\\OrderStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T18:48:55.89Z"
+              "WhenOpened": "2026-03-26T18:48:55.89Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DrinkSize.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\APA103\\07-NullableEnumStruct\\07-NullableEnumStruct\\07-NullableEnumStruct\\Enums\\DrinkSize.cs",
               "RelativeDocumentMoniker": "07-NullableEnumStruct\\Enums\\DrinkSize.cs",
@@ -80,11 +81,12 @@
               "RelativeToolTip": "07-NullableEnumStruct\\Enums\\DrinkSize.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T18:47:26.281Z"
+              "WhenOpened": "2026-03-26T18:47:26.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "DrinkType.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\APA103\\07-NullableEnumStruct\\07-NullableEnumStruct\\07-NullableEnumStruct\\Enums\\DrinkType.cs",
               "RelativeDocumentMoniker": "07-NullableEnumStruct\\Enums\\DrinkType.cs",
