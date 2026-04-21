@@ -1,0 +1,7 @@
+
+
+body{
+    background-image: url("../images/indir.jpg");
+    background-attachment: fixed;
+  background-size: contain;
+}
