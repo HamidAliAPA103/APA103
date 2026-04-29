@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Property Card</title>
+</head>
+<body style="margin:0; display:flex; justify-content:center; align-items:center; min-height:100vh; background:#f1f1f1; font-family: sans-serif;">
+
+  <div id="card-container"></div>
+
+  <script>
+    const container = document.getElementById('card-container');
+
+    const styles = {
+      card: `
+        width: 320px;
+        border-radius: 16px;
+        border: 0.5px solid #e0e0e0;
+        background: #ffffff;
+        overflow: hidden;
+        font-family: sans-serif;
+        transition: transform 0.2s ease;
+        cursor: pointer;
+      `,
+      imageWrapper: `
+        position: relative;
+        width: 100%;
+        height: 200px;
+        overflow: hidden;
+        background: #c8d4e0;
+      `,
+      houseImg: `
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      `,
+      heartBtn: `
+        position: absolute;
+        top: 12px;
+        right: 12px;
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        border: none;
+        background: rgba(255,255,255,0.85);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        transition: background 0.2s, transform 0.15s;
+        outline: none;
+      `,
+      body: `
+        padding: 16px 18px 0 18px;
+      `,
+      tag: `
+        font-size: 11px;
+        font-weight: 500;
+        color: #888;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        margin: 0 0 6px 0;
+      `,
+      price: `
+        font-size: 26px;
+        font-weight: 500;
+        color: #1a1a2e;
+        margin: 0 0 4px 0;
+        line-height: 1.2;
+      `,
+      address: `
+        font-size: 14px;
+        color: #666;
+        margin: 0 0 16px 0;
+      `,
+      features: `
+        display: flex;
+        gap: 24px;
+        padding: 14px 0;
+        border-top: 0.5px solid #e8e8e8;
+        border-bottom: 0.5px solid #e8e8e8;
+      `,
+      featureItem: `
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        font-size: 14px;
+        color: #333;
+      `,
+      featureIcon: `
+        width: 22px;
+        height: 22px;
+        flex-shrink: 0;
+        color: #888;
+      `,
+      realtorSection: `
+        padding: 14px 18px 18px 18px;
+        background: #f8f8f8;
+      `,
+      realtorLabel: `
+        font-size: 10px;
+        font-weight: 500;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: #888;
+        margin: 0 0 10px 0;
+      `,
+      realtorRow: `
+        display: flex;
+        align-items: center;
+        gap: 12px;
+      `,
+      avatar: `
+        width: 44px;
+        height: 44px;
+        border-radius: 50%;
+        flex-shrink: 0;
+        background: #b5d4f4;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 500;
+        font-size: 14px;
+        color: #0c447c;
+        border: 0.5px solid #e0e0e0;
+      `,
+      realtorName: `
+        font-size: 14px;
+        font-weight: 500;
+        color: #1a1a1a;
+        margin: 0 0 2px 0;
+      `,
+      realtorPhone: `
+        font-size: 13px;
+        color: #666;
+        margin: 0;
+      `,
+      contactBtn: `
+        margin-left: auto;
+        padding: 7px 14px;
+        border-radius: 8px;
+        border: 0.5px solid #ccc;
+        background: transparent;
+        font-size: 13px;
+        color: #333;
+        cursor: pointer;
+        transition: background 0.15s;
+        white-space: nowrap;
+      `
+    };
+
+    const bedIcon = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="width:22px;height:22px;color:#888"><path d="M3 9v6M21 9v6M3 15h18M3 9h18M7 9V7a2 2 0 014 0v2M13 9V7a2 2 0 014 0v2"/></svg>`;
+    const bathIcon = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="width:22px;height:22px;color:#888"><path d="M4 12h16M4 12V6a2 2 0 014 0v1M4 12v4a4 4 0 008 0v-4M20 12v4a4 4 0 01-8 0"/></svg>`;
+    const heartEmpty = `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#555" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/></svg>`;
+    const heartFilled = `<svg width="18" height="18" viewBox="0 0 24 24" fill="#e24b4a" stroke="#e24b4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/></svg>`;
+
+    let liked = false;
+
+    container.innerHTML = `
+      <div style="${styles.card}" id="inner-card">
+        <div style="${styles.imageWrapper}">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rectory_Farmhouse%2C_Bledington_-_geograph.org.uk_-_1427867.jpg/1280px-Rectory_Farmhouse%2C_Bledington_-_geograph.org.uk_-_1427867.jpg"
+            style="${styles.houseImg}"
+            alt="House"
+            onerror="this.style.background='#d0dae6';"
+          />
+          <button id="heart-btn" style="${styles.heartBtn}" title="Seçilmişlərə əlavə et">
+            ${heartEmpty}
+          </button>
+        </div>
+
+        <div style="${styles.body}">
+          <p style="${styles.tag}">Detached house &bull; 5Y old</p>
+          <p style="${styles.price}">$750,000</p>
+          <p style="${styles.address}">742 Evergreen Terrace</p>
+          <div style="${styles.features}">
+            <div style="${styles.featureItem}">
+              ${bedIcon}
+              <span><strong style="font-weight:500">3</strong> Bedrooms</span>
+            </div>
+            <div style="${styles.featureItem}">
+              ${bathIcon}
+              <span><strong style="font-weight:500">2</strong> Bathrooms</span>
+            </div>
+          </div>
+        </div>
+
+        <div style="${styles.realtorSection}">
+          <p style="${styles.realtorLabel}">Realtor</p>
+          <div style="${styles.realtorRow}">
+            <div style="${styles.avatar}">TH</div>
+            <div>
+              <p style="${styles.realtorName}">Tiffany Heffner</p>
+              <p style="${styles.realtorPhone}">(555) 555-4321</p>
+            </div>
+            <button id="contact-btn" style="${styles.contactBtn}">Contact</button>
+          </div>
+        </div>
+      </div>
+    `;
+
+    const innerCard = document.getElementById('inner-card');
+    const heartBtn = document.getElementById('heart-btn');
+    const contactBtn = document.getElementById('contact-btn');
+
+    innerCard.addEventListener('mouseenter', () => {
+      innerCard.style.transform = 'translateY(-4px)';
+    });
+    innerCard.addEventListener('mouseleave', () => {
+      innerCard.style.transform = 'translateY(0)';
+    });
+
+    heartBtn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      liked = !liked;
+      heartBtn.innerHTML = liked ? heartFilled : heartEmpty;
+      heartBtn.style.background = liked ? 'rgba(255,235,235,0.9)' : 'rgba(255,255,255,0.85)';
+      heartBtn.style.transform = 'scale(1.2)';
+      setTimeout(() => { heartBtn.style.transform = 'scale(1)'; }, 150);
+    });
+
+    contactBtn.addEventListener('mouseenter', () => {
+      contactBtn.style.background = '#f0f0f0';
+    });
+    contactBtn.addEventListener('mouseleave', () => {
+      contactBtn.style.background = 'transparent';
+    });
+    contactBtn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      contactBtn.textContent = 'Called!';
+      contactBtn.style.color = '#2e7d32';
+      contactBtn.style.borderColor = '#a5d6a7';
+      setTimeout(() => {
+        contactBtn.textContent = 'Contact';
+        contactBtn.style.color = '#333';
+        contactBtn.style.borderColor = '#ccc';
+      }, 2000);
+    });
+  </script>
+</body>
+</html>
