@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kalkulyator</title>
+  <link rel="stylesheet" href="./assets/CSS/style.css" />
+</head>
+<body>
+  <div class="wrap">
+    <div class="calc">
+      <div class="screen">
+        <div class="num" id="disp">0</div>
+      </div>
+      <div class="grid">
+        <button class="b cl" onclick="reset()">AC</button>
+        <button class="b op empty"></button>
+        <button class="b op empty"></button>
+        <button class="b op" onclick="op('/')">÷</button>
+
+        <button class="b" onclick="dig('7')">7</button>
+        <button class="b" onclick="dig('8')">8</button>
+        <button class="b" onclick="dig('9')">9</button>
+        <button class="b op" onclick="op('*')">×</button>
+
+        <button class="b" onclick="dig('4')">4</button>
+        <button class="b" onclick="dig('5')">5</button>
+        <button class="b" onclick="dig('6')">6</button>
+        <button class="b op" onclick="op('-')">−</button>
+
+        <button class="b" onclick="dig('1')">1</button>
+        <button class="b" onclick="dig('2')">2</button>
+        <button class="b" onclick="dig('3')">3</button>
+        <button class="b op" onclick="op('+')">+</button>
+
+        <button class="b z" onclick="dig('0')">0</button>
+        <button class="b" onclick="dot()">.</button>
+        <button class="b eq" onclick="calc()">=</button>
+      </div>
+    </div>
+  </div>
+  <script src="./assets/JS/script.js"></script>
+</body>
+</html>
