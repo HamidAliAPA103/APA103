@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
-    opt.UseSqlServer("Server=DESKTOP-58DF40O\\SQLEXPRESS;Database=APA103ProniaDB;Trused_Connection=True;TrustServerCertificate=true");
+    opt.UseSqlServer("Server=DESKTOP-58DF40O\\SQLEXPRESS;Database=APA103ProniaDB;Trusted_Connection=True;TrustServerCertificate=true");
 });
 
 
