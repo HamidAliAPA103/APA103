@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{0C416C10-532A-4117-B789-876E5B06E6F3}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|solutionrelative:27-fronttobacksqlconnection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C416C10-532A-4117-B789-876E5B06E6F3}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|c:\\users\\asus\\desktop\\apa103\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C416C10-532A-4117-B789-876E5B06E6F3}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|solutionrelative:27-fronttobacksqlconnection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C416C10-532A-4117-B789-876E5B06E6F3}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|c:\\users\\asus\\desktop\\apa103\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C416C10-532A-4117-B789-876E5B06E6F3}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|solutionrelative:27-fronttobacksqlconnection\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Migrations\\20260507171744_CreateDatabeAndCreateSlider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:27-FrontToBackSqlConnection\\Migrations\\20260507171744_CreateDatabeAndCreateSlider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C416C10-532A-4117-B789-876E5B06E6F3}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|c:\\users\\asus\\desktop\\apa103\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C416C10-532A-4117-B789-876E5B06E6F3}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|solutionrelative:27-fronttobacksqlconnection\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C416C10-532A-4117-B789-876E5B06E6F3}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|c:\\users\\asus\\desktop\\apa103\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C416C10-532A-4117-B789-876E5B06E6F3}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|solutionrelative:27-fronttobacksqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C416C10-532A-4117-B789-876E5B06E6F3}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|c:\\users\\asus\\desktop\\apa103\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\viewmodels\\detailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C416C10-532A-4117-B789-876E5B06E6F3}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|solutionrelative:27-fronttobacksqlconnection\\viewmodels\\detailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +26,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "DetailsVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\ViewModels\\DetailsVM.cs",
+              "RelativeDocumentMoniker": "27-FrontToBackSqlConnection\\ViewModels\\DetailsVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\ViewModels\\DetailsVM.cs",
+              "RelativeToolTip": "27-FrontToBackSqlConnection\\ViewModels\\DetailsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T20:25:14.837Z",
+              "WhenOpened": "2026-05-12T18:12:44.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "27-FrontToBackSqlConnection\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "27-FrontToBackSqlConnection\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:01:40.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Views\\Shop\\Details.cshtml",
+              "RelativeDocumentMoniker": "27-FrontToBackSqlConnection\\Views\\Shop\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Views\\Shop\\Details.cshtml",
+              "RelativeToolTip": "27-FrontToBackSqlConnection\\Views\\Shop\\Details.cshtml",
+              "ViewState": "AgIAAFwBAAAAAAAAAAAwwF8BAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T09:27:46.994Z",
               "EditorCaption": ""
             },
             {
@@ -47,37 +73,11 @@
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "27-FrontToBackSqlConnection\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T18:00:15.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20260507171744_CreateDatabeAndCreateSlider.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Migrations\\20260507171744_CreateDatabeAndCreateSlider.cs",
-              "RelativeDocumentMoniker": "27-FrontToBackSqlConnection\\Migrations\\20260507171744_CreateDatabeAndCreateSlider.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Migrations\\20260507171744_CreateDatabeAndCreateSlider.cs",
-              "RelativeToolTip": "27-FrontToBackSqlConnection\\Migrations\\20260507171744_CreateDatabeAndCreateSlider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T17:17:44.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Program.cs",
-              "RelativeDocumentMoniker": "27-FrontToBackSqlConnection\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Program.cs",
-              "RelativeToolTip": "27-FrontToBackSqlConnection\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:27:35.059Z",
               "EditorCaption": ""
             }
           ]

@@ -5,5 +5,6 @@ namespace _27_FrontToBackSqlConnection.ViewModels
     public class HomeVM
     {
         public List<Sliders> Sliders { get; set; }
+        public List<Product> Products { get; set; }
     }
 }
