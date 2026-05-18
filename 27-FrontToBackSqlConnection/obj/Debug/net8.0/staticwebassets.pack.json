@@ -1,0 +1,1429 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/css/maps/style.css.map",
+      "PackagePath": "staticwebassets/admin/css/maps/style.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/css/style.css",
+      "PackagePath": "staticwebassets/admin/css/style.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Black.eot",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Black.eot"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Black.ttf",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Black.ttf"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Black.woff",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Black.woff"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Black.woff2",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Black.woff2"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Bold.eot",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Bold.eot"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Bold.ttf"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Bold.woff",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Bold.woff"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Bold.woff2"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Light.eot",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Light.eot"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Light.ttf",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Light.ttf"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Light.woff",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Light.woff"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Light.woff2",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Light.woff2"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Medium.eot",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Medium.eot"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Medium.ttf"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Medium.woff",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Medium.woff"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Medium.woff2"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Regular.eot",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Regular.eot"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Regular.ttf"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Regular.woff",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Regular.woff"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/fonts/Roboto/Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets/admin/fonts/Roboto/Roboto-Regular.woff2"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/auth/lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets/admin/images/auth/lockscreen-bg.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/auth/login-bg.jpg",
+      "PackagePath": "staticwebassets/admin/images/auth/login-bg.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/auth/register-bg.jpg",
+      "PackagePath": "staticwebassets/admin/images/auth/register-bg.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face1.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face1.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face10.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face10.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face11.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face11.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face12.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face12.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face13.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face13.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face14.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face14.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face15.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face15.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face16.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face16.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face17.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face17.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face18.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face18.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face19.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face19.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face2.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face2.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face20.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face20.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face21.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face21.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face22.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face22.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face23.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face23.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face24.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face24.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face25.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face25.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face26.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face26.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face27.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face27.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face3.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face3.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face4.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face4.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face5.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face5.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face6.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face6.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face7.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face7.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face8.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face8.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/faces/face9.jpg",
+      "PackagePath": "staticwebassets/admin/images/faces/face9.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/favicon.ico",
+      "PackagePath": "staticwebassets/admin/images/favicon.ico"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/favicon.png",
+      "PackagePath": "staticwebassets/admin/images/favicon.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/logo-mini.svg",
+      "PackagePath": "staticwebassets/admin/images/logo-mini.svg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/images/logo.svg",
+      "PackagePath": "staticwebassets/admin/images/logo.svg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/Chart.min.js",
+      "PackagePath": "staticwebassets/admin/js/Chart.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/chart.js",
+      "PackagePath": "staticwebassets/admin/js/chart.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/css/maps/style.css.map",
+      "PackagePath": "staticwebassets/admin/js/css/maps/style.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/css/style.css",
+      "PackagePath": "staticwebassets/admin/js/css/style.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/dashboard.js",
+      "PackagePath": "staticwebassets/admin/js/dashboard.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/data-table.js",
+      "PackagePath": "staticwebassets/admin/js/data-table.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets/admin/js/dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/documentation.js",
+      "PackagePath": "staticwebassets/admin/js/documentation.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/file-upload.js",
+      "PackagePath": "staticwebassets/admin/js/file-upload.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Black.eot",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Black.eot"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Black.ttf",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Black.ttf"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Black.woff",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Black.woff"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Black.woff2",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Black.woff2"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Bold.eot",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Bold.eot"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Bold.ttf"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Bold.woff",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Bold.woff"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Bold.woff2"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Light.eot",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Light.eot"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Light.ttf",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Light.ttf"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Light.woff",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Light.woff"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Light.woff2",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Light.woff2"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Medium.eot",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Medium.eot"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Medium.ttf"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Medium.woff",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Medium.woff"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Medium.woff2"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Regular.eot",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Regular.eot"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Regular.ttf"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Regular.woff",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Regular.woff"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/fonts/Roboto/Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets/admin/js/fonts/Roboto/Roboto-Regular.woff2"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/hoverable-collapse.js",
+      "PackagePath": "staticwebassets/admin/js/hoverable-collapse.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/auth/lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/auth/lockscreen-bg.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/auth/login-bg.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/auth/login-bg.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/auth/register-bg.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/auth/register-bg.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face1.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face1.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face10.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face10.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face11.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face11.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face12.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face12.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face13.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face13.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face14.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face14.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face15.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face15.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face16.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face16.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face17.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face17.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face18.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face18.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face19.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face19.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face2.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face2.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face20.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face20.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face21.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face21.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face22.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face22.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face23.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face23.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face24.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face24.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face25.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face25.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face26.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face26.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face27.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face27.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face3.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face3.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face4.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face4.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face5.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face5.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face6.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face6.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face7.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face7.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face8.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face8.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/faces/face9.jpg",
+      "PackagePath": "staticwebassets/admin/js/images/faces/face9.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/favicon.ico",
+      "PackagePath": "staticwebassets/admin/js/images/favicon.ico"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/favicon.png",
+      "PackagePath": "staticwebassets/admin/js/images/favicon.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/logo-mini.svg",
+      "PackagePath": "staticwebassets/admin/js/images/logo-mini.svg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/images/logo.svg",
+      "PackagePath": "staticwebassets/admin/js/images/logo.svg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/jquery.cookie.js",
+      "PackagePath": "staticwebassets/admin/js/jquery.cookie.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/jquery.dataTables.js",
+      "PackagePath": "staticwebassets/admin/js/jquery.dataTables.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/off-canvas.js",
+      "PackagePath": "staticwebassets/admin/js/off-canvas.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/tabs.js",
+      "PackagePath": "staticwebassets/admin/js/tabs.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/js/template.js",
+      "PackagePath": "staticwebassets/admin/js/template.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/_background.scss",
+      "PackagePath": "staticwebassets/admin/scss/_background.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/_demo.scss",
+      "PackagePath": "staticwebassets/admin/scss/_demo.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/_fonts.scss",
+      "PackagePath": "staticwebassets/admin/scss/_fonts.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/_footer.scss",
+      "PackagePath": "staticwebassets/admin/scss/_footer.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/_functions.scss",
+      "PackagePath": "staticwebassets/admin/scss/_functions.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/_layouts.scss",
+      "PackagePath": "staticwebassets/admin/scss/_layouts.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/_misc.scss",
+      "PackagePath": "staticwebassets/admin/scss/_misc.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/_navbar.scss",
+      "PackagePath": "staticwebassets/admin/scss/_navbar.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/_reset.scss",
+      "PackagePath": "staticwebassets/admin/scss/_reset.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/_sidebar.scss",
+      "PackagePath": "staticwebassets/admin/scss/_sidebar.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/_typography.scss",
+      "PackagePath": "staticwebassets/admin/scss/_typography.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/_utilities.scss",
+      "PackagePath": "staticwebassets/admin/scss/_utilities.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/_variables.scss",
+      "PackagePath": "staticwebassets/admin/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets/admin/scss/_vertical-wrapper.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/components/_badges.scss",
+      "PackagePath": "staticwebassets/admin/scss/components/_badges.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/components/_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets/admin/scss/components/_bootstrap-progress.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/components/_buttons.scss",
+      "PackagePath": "staticwebassets/admin/scss/components/_buttons.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/components/_cards.scss",
+      "PackagePath": "staticwebassets/admin/scss/components/_cards.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/components/_checkbox-radio.scss",
+      "PackagePath": "staticwebassets/admin/scss/components/_checkbox-radio.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/components/_dropdown.scss",
+      "PackagePath": "staticwebassets/admin/scss/components/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/components/_forms.scss",
+      "PackagePath": "staticwebassets/admin/scss/components/_forms.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/components/_icons.scss",
+      "PackagePath": "staticwebassets/admin/scss/components/_icons.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/components/_lists.scss",
+      "PackagePath": "staticwebassets/admin/scss/components/_lists.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/components/_tables.scss",
+      "PackagePath": "staticwebassets/admin/scss/components/_tables.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/components/plugin-overrides/_data-tables.scss",
+      "PackagePath": "staticwebassets/admin/scss/components/plugin-overrides/_data-tables.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/landing-screens/_auth.scss",
+      "PackagePath": "staticwebassets/admin/scss/landing-screens/_auth.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/mixins/_animation.scss",
+      "PackagePath": "staticwebassets/admin/scss/mixins/_animation.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/mixins/_badges.scss",
+      "PackagePath": "staticwebassets/admin/scss/mixins/_badges.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/mixins/_blockqoute.scss",
+      "PackagePath": "staticwebassets/admin/scss/mixins/_blockqoute.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/admin/scss/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/mixins/_cards.scss",
+      "PackagePath": "staticwebassets/admin/scss/mixins/_cards.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/mixins/_misc.scss",
+      "PackagePath": "staticwebassets/admin/scss/mixins/_misc.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/scss/style.scss",
+      "PackagePath": "staticwebassets/admin/scss/style.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/vendors/base/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/admin/vendors/base/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/vendors/base/vendor.bundle.base.css",
+      "PackagePath": "staticwebassets/admin/vendors/base/vendor.bundle.base.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/vendors/base/vendor.bundle.base.js",
+      "PackagePath": "staticwebassets/admin/vendors/base/vendor.bundle.base.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/vendors/chart.js/Chart.min.js",
+      "PackagePath": "staticwebassets/admin/vendors/chart.js/Chart.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/vendors/datatables.net-bs4/dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets/admin/vendors/datatables.net-bs4/dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/vendors/datatables.net-bs4/dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets/admin/vendors/datatables.net-bs4/dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/vendors/datatables.net/jquery.dataTables.js",
+      "PackagePath": "staticwebassets/admin/vendors/datatables.net/jquery.dataTables.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/vendors/mdi/css/materialdesignicons.min.css",
+      "PackagePath": "staticwebassets/admin/vendors/mdi/css/materialdesignicons.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/vendors/mdi/css/materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets/admin/vendors/mdi/css/materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/vendors/mdi/fonts/materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets/admin/vendors/mdi/fonts/materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets/admin/vendors/mdi/fonts/materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/vendors/mdi/fonts/materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets/admin/vendors/mdi/fonts/materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/admin/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets/admin/vendors/mdi/fonts/materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/css/Pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets/css/Pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/css/animate.min.css",
+      "PackagePath": "staticwebassets/css/animate.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/css/ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets/css/ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/css/magnific-popup.min.css",
+      "PackagePath": "staticwebassets/css/magnific-popup.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/css/nice-select.css",
+      "PackagePath": "staticwebassets/css/nice-select.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/css/plugins.min.css",
+      "PackagePath": "staticwebassets/css/plugins.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/css/style.min.css",
+      "PackagePath": "staticwebassets/css/style.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/css/swiper-bundle.min.css",
+      "PackagePath": "staticwebassets/css/swiper-bundle.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/fonts/Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets/fonts/Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/fonts/Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets/fonts/Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/fonts/Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets/fonts/Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/fonts/Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets/fonts/Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1--1rnu4p.png",
+      "PackagePath": "staticwebassets/images/1--1rnu4p.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-1-120x120.webp",
+      "PackagePath": "staticwebassets/images/1-1-120x120.webp"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-1-1820x443.jpg",
+      "PackagePath": "staticwebassets/images/1-1-1820x443.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-1-270x300.jpg",
+      "PackagePath": "staticwebassets/images/1-1-270x300.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-1-310x220.jpg",
+      "PackagePath": "staticwebassets/images/1-1-310x220.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-1-524x617.png",
+      "PackagePath": "staticwebassets/images/1-1-524x617.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-1-570x633.jpg",
+      "PackagePath": "staticwebassets/images/1-1-570x633.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-1-768x546.webp",
+      "PackagePath": "staticwebassets/images/1-1-768x546.webp"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-1-770x300.jpg",
+      "PackagePath": "staticwebassets/images/1-1-770x300.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-1.jpg",
+      "PackagePath": "staticwebassets/images/1-1.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-1.png",
+      "PackagePath": "staticwebassets/images/1-1.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-10-270x300.jpg",
+      "PackagePath": "staticwebassets/images/1-10-270x300.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-11-270x300.jpg",
+      "PackagePath": "staticwebassets/images/1-11-270x300.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-1170x300.jpg",
+      "PackagePath": "staticwebassets/images/1-1170x300.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-1920x465.jpg",
+      "PackagePath": "staticwebassets/images/1-1920x465.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-2-120x120.webp",
+      "PackagePath": "staticwebassets/images/1-2-120x120.webp"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-2-270x300.jpg",
+      "PackagePath": "staticwebassets/images/1-2-270x300.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-2-310x220.jpg",
+      "PackagePath": "staticwebassets/images/1-2-310x220.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-2-370x300.jpg",
+      "PackagePath": "staticwebassets/images/1-2-370x300.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-2-524x617.png",
+      "PackagePath": "staticwebassets/images/1-2-524x617.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-2-570x633.jpg",
+      "PackagePath": "staticwebassets/images/1-2-570x633.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-2.png",
+      "PackagePath": "staticwebassets/images/1-2.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-270x300.webp",
+      "PackagePath": "staticwebassets/images/1-270x300.webp"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-3-120x120.webp",
+      "PackagePath": "staticwebassets/images/1-3-120x120.webp"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-3-270x300.jpg",
+      "PackagePath": "staticwebassets/images/1-3-270x300.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-3-310x220.jpg",
+      "PackagePath": "staticwebassets/images/1-3-310x220.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-3-370x300.jpg",
+      "PackagePath": "staticwebassets/images/1-3-370x300.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-3-570x633.jpg",
+      "PackagePath": "staticwebassets/images/1-3-570x633.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-3.png",
+      "PackagePath": "staticwebassets/images/1-3.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-4-270x300.jpg",
+      "PackagePath": "staticwebassets/images/1-4-270x300.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-4-570x633.jpg",
+      "PackagePath": "staticwebassets/images/1-4-570x633.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-4-770x300.jpg",
+      "PackagePath": "staticwebassets/images/1-4-770x300.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-4.png",
+      "PackagePath": "staticwebassets/images/1-4.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-5-270x300.jpg",
+      "PackagePath": "staticwebassets/images/1-5-270x300.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-5.png",
+      "PackagePath": "staticwebassets/images/1-5.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-6-270x300.jpg",
+      "PackagePath": "staticwebassets/images/1-6-270x300.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-7-270x300.jpg",
+      "PackagePath": "staticwebassets/images/1-7-270x300.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-8-270x300.jpg",
+      "PackagePath": "staticwebassets/images/1-8-270x300.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1-9-270x300.jpg",
+      "PackagePath": "staticwebassets/images/1-9-270x300.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/1.png",
+      "PackagePath": "staticwebassets/images/1.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/2-1-370x270.webp",
+      "PackagePath": "staticwebassets/images/2-1-370x270.webp"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/2-1-70x78.png",
+      "PackagePath": "staticwebassets/images/2-1-70x78.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/2-1-960x741.jpg",
+      "PackagePath": "staticwebassets/images/2-1-960x741.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/2-1.jpg",
+      "PackagePath": "staticwebassets/images/2-1.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/2-2-370x270.webp",
+      "PackagePath": "staticwebassets/images/2-2-370x270.webp"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/2-2-70x78.png",
+      "PackagePath": "staticwebassets/images/2-2-70x78.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/2-2-960x741.jpg",
+      "PackagePath": "staticwebassets/images/2-2-960x741.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/2-3-70x78.png",
+      "PackagePath": "staticwebassets/images/2-3-70x78.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/2-3-960x741.jpg",
+      "PackagePath": "staticwebassets/images/2-3-960x741.jpg"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/2.png",
+      "PackagePath": "staticwebassets/images/2.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/3.png",
+      "PackagePath": "staticwebassets/images/3.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/car.png",
+      "PackagePath": "staticwebassets/images/car.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/card.png",
+      "PackagePath": "staticwebassets/images/card.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/dark.png",
+      "PackagePath": "staticwebassets/images/dark.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/quotation.png",
+      "PackagePath": "staticwebassets/images/quotation.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/images/service.png",
+      "PackagePath": "staticwebassets/images/service.png"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/js/plugins.min.js",
+      "PackagePath": "staticwebassets/js/plugins.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/js/plugins/ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets/js/plugins/ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/js/plugins/jquery.counterup.js",
+      "PackagePath": "staticwebassets/js/plugins/jquery.counterup.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/js/plugins/jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets/js/plugins/jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/js/plugins/jquery.nice-select.js",
+      "PackagePath": "staticwebassets/js/plugins/jquery.nice-select.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/js/plugins/mailchimp-ajax.js",
+      "PackagePath": "staticwebassets/js/plugins/mailchimp-ajax.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/js/plugins/parallax.min.js",
+      "PackagePath": "staticwebassets/js/plugins/parallax.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/js/plugins/swiper-bundle.min.js",
+      "PackagePath": "staticwebassets/js/plugins/swiper-bundle.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/js/plugins/tippy.min.js",
+      "PackagePath": "staticwebassets/js/plugins/tippy.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/js/plugins/wow.min.js",
+      "PackagePath": "staticwebassets/js/plugins/wow.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/js/vendor/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/vendor/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/js/vendor/jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets/js/vendor/jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/js/vendor/jquery-migrate-3.3.2.min.js",
+      "PackagePath": "staticwebassets/js/vendor/jquery-migrate-3.3.2.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/js/vendor/jquery.waypoints.js",
+      "PackagePath": "staticwebassets/js/vendor/jquery.waypoints.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/js/vendor/modernizr-3.11.2.min.js",
+      "PackagePath": "staticwebassets/js/vendor/modernizr-3.11.2.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_404.scss",
+      "PackagePath": "staticwebassets/scss/_404.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_about.scss",
+      "PackagePath": "staticwebassets/scss/_about.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_animation.scss",
+      "PackagePath": "staticwebassets/scss/_animation.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_banner.scss",
+      "PackagePath": "staticwebassets/scss/_banner.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_blog.scss",
+      "PackagePath": "staticwebassets/scss/_blog.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_brand.scss",
+      "PackagePath": "staticwebassets/scss/_brand.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/scss/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_cart.scss",
+      "PackagePath": "staticwebassets/scss/_cart.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_checkout.scss",
+      "PackagePath": "staticwebassets/scss/_checkout.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_common.scss",
+      "PackagePath": "staticwebassets/scss/_common.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_compare.scss",
+      "PackagePath": "staticwebassets/scss/_compare.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_contact.scss",
+      "PackagePath": "staticwebassets/scss/_contact.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_faq.scss",
+      "PackagePath": "staticwebassets/scss/_faq.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_footer.scss",
+      "PackagePath": "staticwebassets/scss/_footer.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_header.scss",
+      "PackagePath": "staticwebassets/scss/_header.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_login-register.scss",
+      "PackagePath": "staticwebassets/scss/_login-register.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_modal.scss",
+      "PackagePath": "staticwebassets/scss/_modal.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_my-account.scss",
+      "PackagePath": "staticwebassets/scss/_my-account.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_navigation.scss",
+      "PackagePath": "staticwebassets/scss/_navigation.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_newsletter.scss",
+      "PackagePath": "staticwebassets/scss/_newsletter.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_offcanvas.scss",
+      "PackagePath": "staticwebassets/scss/_offcanvas.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_product.scss",
+      "PackagePath": "staticwebassets/scss/_product.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_shipping.scss",
+      "PackagePath": "staticwebassets/scss/_shipping.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_shop.scss",
+      "PackagePath": "staticwebassets/scss/_shop.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_sidebar.scss",
+      "PackagePath": "staticwebassets/scss/_sidebar.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_slider.scss",
+      "PackagePath": "staticwebassets/scss/_slider.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_testimonial.scss",
+      "PackagePath": "staticwebassets/scss/_testimonial.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_variables.scss",
+      "PackagePath": "staticwebassets/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/_wishlist.scss",
+      "PackagePath": "staticwebassets/scss/_wishlist.scss"
+    },
+    {
+      "Id": "/Users/aydansrifova/Desktop/APA103/27-FrontToBackSqlConnection/wwwroot/scss/style.scss",
+      "PackagePath": "staticwebassets/scss/style.scss"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.27-FrontToBackSqlConnection.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.27-FrontToBackSqlConnection.props",
+      "PackagePath": "build\\27-FrontToBackSqlConnection.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.27-FrontToBackSqlConnection.props",
+      "PackagePath": "buildMultiTargeting\\27-FrontToBackSqlConnection.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.27-FrontToBackSqlConnection.props",
+      "PackagePath": "buildTransitive\\27-FrontToBackSqlConnection.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

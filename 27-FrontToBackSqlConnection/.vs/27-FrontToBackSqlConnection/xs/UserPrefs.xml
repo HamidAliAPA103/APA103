@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{396F1058-EAEC-4076-8173-FAD6C854E225}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Areas/AdminPanel/Controllers/SliderController.cs">
+    <Files>
+      <File FileName="Utilities/Enums/FileSize.cs" Line="1" Column="1" />
+      <File FileName="Utilities/Extensions/FileValidator.cs" Line="1" Column="1" />
+      <File FileName="Areas/AdminPanel/Controllers/CategoryController.cs" Line="1" Column="1" />
+      <File FileName="Areas/AdminPanel/Controllers/DashboardController.cs" Line="1" Column="1" />
+      <File FileName="Areas/AdminPanel/Controllers/ProductController.cs" Line="57" Column="1" />
+      <File FileName="appsettings.json" Line="3" Column="128" />
+      <File FileName="Program.cs" Line="12" Column="27" />
+      <File FileName="Areas/AdminPanel/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminPanel/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminPanel/Views/Category/Create.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminPanel/Views/Category/Detail.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminPanel/Views/Category/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminPanel/Views/Category/Update.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminPanel/Views/Product/Create.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminPanel/Views/Product/Detail.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/AdminPanel/Controllers/SliderController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="27-FrontToBackSqlConnection">
+            <Node name="27-FrontToBackSqlConnection">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.27-FrontToBackSqlConnection PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
